@@ -49,22 +49,5 @@
       "estrelas": 3,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/co.png"
     }
-  },
-    { 
-    "descricao": "Eliminatórias da Copa 2022",
-    "local": {
-      "nome": "Estádio Olimpico de Roma",
-      "imagem": "TODO"
-    },
-    "mandante": {
-      "nome": "Itália"
-      "estrelas": 5,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/it.png"
-    },
-    "visitante": {
-      "nome": "Alemanha",
-      "estrelas": 4,
-      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/de.png"
-    }
   }
 ]
